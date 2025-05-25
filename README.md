@@ -11,7 +11,7 @@ Saat ini digunakan oleh lebih dari **50 pengguna aktif** dan telah menangani **2
 [![Astranix Discord](https://discordapp.com/api/guilds/1332500160139366451/embed.png?style=banner2)](https://discord.gg/DGmWTbhMS3)
 
 > [!NOTE]
-> Astranix API siap digunakan untuk production dengan uptime 99.9%. Cek [FAQ](https://api.astranix.my.id/faq) dan [ulasan developer](https://api.astranix.my.id/#testimonials) untuk informasi tambahan.
+> Astranix API siap digunakan dengan uptime 99.9%. Cek [FAQ](https://api.astranix.my.id/faq) dan [ulasan developer](https://api.astranix.my.id/#testimonials) untuk informasi tambahan.
 
 ---
 
