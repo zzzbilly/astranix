@@ -11,13 +11,13 @@ Saat ini digunakan oleh lebih dari **50 pengguna aktif** dan telah menangani **2
 [![Astranix Discord](https://discordapp.com/api/guilds/1332500160139366451/embed.png?style=banner2)](https://discord.gg/DGmWTbhMS3)
 
 > [!NOTE]
-> Astranix API siap digunakan dengan uptime 99.9%. Cek [FAQ](https://api.astranix.my.id/faq) dan [ulasan developer](https://api.astranix.my.id/#testimonials) untuk informasi tambahan.
+> Astranix API siap digunakan dengan uptime 99.9%. Cek [FAQ](https://api.astranix.my.id/#faq) dan [ulasan developer](https://api.astranix.my.id/#testimonials) untuk informasi tambahan.
 
 ---
 
 ## 🚀 Getting Started
 
-- Jelajahi koleksi API yang tersedia di halaman [Home](https://api.astranix.my.id)
+- Jelajahi koleksi API yang tersedia di halaman [Home](https://api.astranix.my.id/)
 - Lihat dokumentasi lengkap di bagian [Documentation](https://api.astranix.my.id/#docs)
 - Uji endpoint langsung lewat [API Tester](https://api.astranix.my.id/)
 - Dapatkan dukungan komunitas lewat [Discord](https://discord.astranix.my.id/)
@@ -25,9 +25,9 @@ Saat ini digunakan oleh lebih dari **50 pengguna aktif** dan telah menangani **2
 <details>
 <summary>Table of Contents</summary>
 
-- [API Tersedia](#docs)
-- [Statistik](#docs)
-- [Pertanyaan Umum](#faq)
+- [API Tersedia](https://api.astranix.my.id/#docs)
+- [Statistik](https://api.astranix.my.id/#stats)
+- [Pertanyaan Umum](https://api.astranix.my.id/#faq)
 </details>
 
 ---
@@ -79,7 +79,7 @@ Saat ini digunakan oleh lebih dari **50 pengguna aktif** dan telah menangani **2
   ✅ Ada batasan ringan untuk menjaga stabilitas layanan.
 
 - ❓ Apakah stabil untuk production?  
-  ✅ Tentu saja, dengan uptime 99.9%.
+  ✅ Tidak disarankan untuk perusahaan atau bisnis besar, lebih cocok untuk bisnis kecil karena koneksi yang lebih stabil dengan uptime 99.9%.
 
 - ❓ Bagaimana jika menemukan bug?  
   ✅ Laporkan via Discord atau halaman kontak.
@@ -89,7 +89,7 @@ Saat ini digunakan oleh lebih dari **50 pengguna aktif** dan telah menangani **2
 ## 📜 Lisensi
 
 © 2025 Astranix. All rights reserved.  
-Lihat juga [Terms of Service] [Privacy Policy](https://astranix.my.id/tos)
+Lihat juga [Terms of Service](https://astranix.my.id/tos) [Privacy Policy](https://astranix.my.id/tos)
 
 ---
 
