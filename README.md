@@ -89,7 +89,7 @@ Saat ini digunakan oleh lebih dari **50 pengguna aktif** dan telah menangani **2
 ## 📜 Lisensi
 
 © 2025 Astranix. All rights reserved.  
-Lihat juga [Terms of Service](https://astranix.my.id/tos) [Privacy Policy](https://astranix.my.id/tos)
+[Terms of Service](https://astranix.my.id/tos) [Privacy Policy](https://astranix.my.id/tos)
 
 ---
 
